@@ -1,7 +1,7 @@
 # John-Lemons-Haunted-Jaunt
 TEAM: Liam Dauphinee, Elias Faris, Jordan Whiteley
 
-Our team decided to have each member do the entire JohnLemon tutorial for learnin purposes. We then worked together on the scrips for parts 2 and 3, and did individual particle effects for part 4.
+Our team decided to have each member do the entire JohnLemon tutorial for learnin purposes. 
 
 CHANGES: 
 
